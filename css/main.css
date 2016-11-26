@@ -1,0 +1,50 @@
+*{
+	text-align: center;
+}
+
+.logo{
+	width:150px;
+	float:left;
+}
+
+.view_cart{
+	float: right;
+}
+
+
+
+.title{
+	float:left;
+	padding-top: 100px;
+}
+
+
+img{
+	height:100px;
+	width: 100px;
+}
+
+.cart{
+	display: none;
+}
+
+
+.cart_item * {
+	display: inline-block
+
+}
+
+.cart_item {
+	border:1px solid black;
+	margin-bottom: 20px;
+}
+
+/*.cart_item {
+	position:relative;
+	width: 40%;
+}
+
+.cart_item .cart_image{
+	position:relative;
+	left:50px;
+}*/
